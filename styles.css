@@ -1,0 +1,62 @@
+body {
+    background-image: url("https://live.staticflickr.com/65535/49306854566_a1cb915d32_b.jpg");
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+/* .container {
+    background: white;
+    max-width: 80%;
+    margin: 0 auto;
+    border: 3px solid black;
+    border-radius: 10px; */
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: 2px;;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: #2c2891;
+}
+
+#save-btn {
+    background: #1c7947;
+}
+
+button:hover{
+  font-size: 20px;
+
+}
+
+#save-el {
+    font-weight: bold;
+}
+
+.container {
+    background: gold;
+    width: 400px;
+    height: 450px;
+    margin: 150px auto;
+    border: 3px solid white;
+    border-radius: 10px;
